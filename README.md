@@ -23,7 +23,6 @@
 
 ---
 
-
 ## ✨ Features
 
 Live project = https://traveloop-ai-mocha.vercel.app/login
